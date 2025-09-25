@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+vendor/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.o
+*.exe
+*.dll
+
+# Logs
+*.log
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Configuration files (add specific ones as needed)
+.env
+config.local.*
+
+# Package manager lock files (uncomment if not tracking)
+# package-lock.json
+# yarn.lock
+# Pipfile.lock
